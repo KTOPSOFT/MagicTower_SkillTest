@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ab5743ccb5727f499754ec39bdd0713, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  displayName: Spell/Fireball
+  cooldown: 1
+  damage: 0
+  projectileSpeed: 20
+  projectilePrefab: {fileID: 2859132593448938935, guid: 38b316a14585d3c40bd0189d0669a57a, type: 3}
+  notes: 
