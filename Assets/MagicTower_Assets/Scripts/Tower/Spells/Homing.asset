@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName: Spell/Homing
   cooldown: 1
-  damage: 0
+  damage: 20
   projectileSpeed: 20
   projectilePrefab: {fileID: 9071082625699762088, guid: b33317e77aed9c748b3a8a81fcefa040, type: 3}
   notes: 
